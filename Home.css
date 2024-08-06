@@ -1,0 +1,23 @@
+p{
+    background-color:
+    rgb(223, 127, 223);
+    word-spacing:15px;
+    line-height: 1.5;
+
+}
+form {
+    background-color: rgb(223, 127, 223);
+    
+        
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 2px;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+body{
+    background-color:rgb(223, 127, 223);
+
+
+}
